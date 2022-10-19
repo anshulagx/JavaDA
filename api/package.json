@@ -1,0 +1,32 @@
+{
+  "name": "Anshul",
+  "version": "0.1.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [
+    "jwt",
+    "auth0"
+  ],
+  "author": "Anshul",
+  "license": "MIT",
+  "homepage": "",
+  "dependencies": {
+    "body-parser": "^1.6.5",
+    "compression": "^1.0.11",
+    "cors": "^2.4.1",
+    "dotenv": "^0.4.0",
+    "errorhandler": "^1.1.1",
+    "express": "^4.8.5",
+    "express-jwt": "^0.3.1",
+    "jsonwebtoken": "^5.0.1",
+    "lodash": "^2.4.1",
+    "morgan": "^1.2.3"
+  }
+}
